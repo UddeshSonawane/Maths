@@ -1,6 +1,6 @@
 /* LFSR Random Number Generator
 
-(LFSR -> LINEAR FEEDBACK SHIFT REGISTER)
+(LFSR -> LINEAR FEEDBACK SHIFT REGISTER)   <need more inspection, as it repeats particular pattern>
 
 */
 
